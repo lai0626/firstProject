@@ -20,11 +20,11 @@
 }
 
 -(void)gitTest{
-    NSLog(@"gitTest-----------1");
+    NSLog(@"gitTest");
 }
 
 -(void)branch_1{
-    NSLog(@"branch_1------------2");
+    NSLog(@"branch_1");
 }
 -(void)branch_2{
     NSLog(@"branch_2--------------3");
