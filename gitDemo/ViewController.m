@@ -23,4 +23,8 @@
     NSLog(@"gitTest");
 }
 
+-(void)branch_2{
+    NSLog(@"branch_2");
+}
+
 @end
