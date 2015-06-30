@@ -24,7 +24,7 @@
 }
 
 -(void)branch_1{
-    NSLog(@"branch_1");
+    NSLog(@"branch_1------------2");
 }
 -(void)branch_2{
     NSLog(@"branch_2--------------3");
@@ -32,5 +32,11 @@
 -(void)branch_3{
     
 }
+
+-(void)branch_4{
+    NSLog(@"branch)4");
+}
+
+
 
 @end
