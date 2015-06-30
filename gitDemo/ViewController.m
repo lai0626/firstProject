@@ -20,7 +20,7 @@
 }
 
 -(void)gitTest{
-    NSLog(@"gitTest-----------1");
+    NSLog(@"gitTest-----------1"); 
 }
 
 -(void)branch_1{
