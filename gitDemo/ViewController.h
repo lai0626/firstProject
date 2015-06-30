@@ -13,6 +13,7 @@
 -(void)gitTest;
 
 -(void)branch_1;
+-(void)branch_2;
 
 @end
 
